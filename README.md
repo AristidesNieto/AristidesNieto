@@ -15,7 +15,7 @@
 
 ### About me
 
-- 🎓 2nd year CS student at **Tecnológico de Monterrey** (GPA 3.7/4.0)
+- 🎓 3 year CS student at **Tecnológico de Monterrey** (GPA 3.7/4.0)
 - 📱 I love building **mobile apps** — Swift for iOS, Kotlin & Flutter for cross-platform
 - 🎮 Game dev with **Unity + C#** (shipped a NASA Space Apps hackathon MVP)
 - 🤖 Exploring **AI integrations** — Gemini API, ChatGPT API, FastAPI backends
